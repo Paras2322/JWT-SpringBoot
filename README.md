@@ -23,7 +23,7 @@ This repository contains a complete implementation of Jwt (JSON Web Token) Authe
 
     ```bash
     git clone https://github.com/Paras2322/JWT-SpringBoot.git
-    cd JWT_SpringBoot.git
+    cd JWT-SpringBoot.git
     ```
 
 2. **Build and run the application:**
